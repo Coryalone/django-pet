@@ -62,3 +62,11 @@ form {
 
 }
 
+.alert-warning{
+    float: left;
+    clear: both;
+    width: 400px;
+    margin: 20px 36%;
+    text-align: left;
+}
+
