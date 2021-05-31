@@ -9,6 +9,8 @@ def news_home(request):
 
 
 def create(request):
+
+
     form = ArticlesForm()
 
     data = {
